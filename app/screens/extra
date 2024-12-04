@@ -1,0 +1,5 @@
+<Stack.Navigator initialRouteName="Home"> 
+        <Stack.Screen name="Home" component={HomeView}/>
+        <Stack.Screen name="About" component={About}/>
+        <Stack.Screen name="Recipe" component={Recipe}/>
+    </Stack.Navigator>
